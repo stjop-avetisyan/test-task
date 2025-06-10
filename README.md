@@ -87,7 +87,7 @@ ___
        "transactionId": "transaction id of game server",
        "roundId": "Round id of game server",
        "amount": "Amount to deposit or withdraw",
-       "type": "deposit" or "withdrawal"
+       "type": "deposit  or withdrawal"
        }
        "Response":
        {
